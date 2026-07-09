@@ -1,5 +1,6 @@
-<p>💻 Developer, 4+ years of experience.</p>
-<p>🎓 Graduated in Computer Science</p>
+<p>💻 Backend Developer focused on Java and scalable systems</p>
+<p>🚀 4+ years building APIs, backend solutions and corporate software</p>
+<p>🧠 Building personal projects around architecture, automation and real-world products</p>
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperodrigues22/)
 
