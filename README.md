@@ -7,11 +7,7 @@
 <hr>
 
 <div align="center">
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,docker,kubernetes,rabbitmq,firebase,aws" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,docker,kubernetes,terraform,nginx,grafana,postgres,rabbitmq,kafka,supabase,firebase,aws" />
 </div>
 
 ---
