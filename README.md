@@ -1,11 +1,11 @@
-<div align="center">
-
 <p>💻 Developer, 4+ years of experience.</p>
 <p>🎓 Graduated in Computer Science</p>
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperodrigues22/)
 
 <hr>
+
+<div align="center">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,docker,kubernetes,rabbitmq,firebase,aws" />
