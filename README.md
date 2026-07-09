@@ -1,8 +1,12 @@
-# 👋 Fala, eu sou o Felipe!
+<div align="center">
 
-🎯 Desenvolvedor Java com foco em soluções práticas e eficientes  
-💡 Apaixonado por back-end, arquitetura de sistemas e integração com mensageria  
-📍 Brasil | 🚀 Em constante evolução
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+%F0%9F%91%8B;Desenvolvedor+Java+%7C+Spring+Boot;Back-end+%7C+Arquitetura+%7C+Integra%C3%A7%C3%A3o+com+Mensageria)](https://git.io/typing-svg)
+
+📍 Brasil&nbsp;&nbsp;|&nbsp;&nbsp;🚀 Em constante evolução
+
+[![LinkedIn](https://img.shields.io/badge/-Me%20adicione%20no%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperodrigues22/)
+
+</div>
 
 ---
 
@@ -32,6 +36,15 @@
 - 🗓️ **[Agenda Assistant](https://github.com/feerodgs/agenda-assistant)**  
   Assistente de agendamento via chat (Telegram) que cria compromissos, consulta a agenda por comandos, envia lembretes automáticos e detecta conflitos de horário antes de confirmar um novo compromisso.  
   🤖 Tecnologias: Java 17, Spring Boot 3, Telegram Bot API, JPA/Hibernate, PostgreSQL/H2, Docker
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=feerodgs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Felipe's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feerodgs&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top linguagens" />
+</p>
 
 ---
 
