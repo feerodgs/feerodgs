@@ -2,7 +2,6 @@
 
 <p>💻 Developer, 4+ years of experience.</p>
 <p>🎓 Graduated in Computer Science</p>
-<p>🚀 I'm passionate about development and learning. Here you'll find my projects and experiments with AI, Java, cloud technologies, and more.</p>
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperodrigues22/)
 
