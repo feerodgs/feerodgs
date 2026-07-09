@@ -29,25 +29,9 @@
   Sistema inteligente para tradução de Libras com foco em inclusão social e atendimento hospitalar.  
   ☁️ Tecnologias: Node.js, AWS, Express, APIs REST, JavaScript, Python
 
-- 🏋️ **[App Fitness](https://github.com/feerodgs/app_fitness)**  
-  Aplicativo web/mobile para organização de treinos e acompanhamento de evolução física.  
-  📲 Tecnologias: Flutter, Firebase, Node.js, Firestore, autenticação e relatórios
-
----
-
-## 📈 O que venho estudando
-
-- Integração de CI/CD com GitHub Actions e Docker
-- Arquitetura baseada em eventos
-- OpenTelemetry e logs estruturados
-- Otimização de APIs REST em Spring
-
----
-
-## 📫 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/-Me%20adicione%20no%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperodrigues22/)  
-👉 Me adicione e me chame por mensagem, vai ser um prazer trocar ideia!
+- 🗓️ **[Agenda Assistant](https://github.com/feerodgs/agenda-assistant)**  
+  Assistente de agendamento via chat (Telegram) que cria compromissos, consulta a agenda por comandos, envia lembretes automáticos e detecta conflitos de horário antes de confirmar um novo compromisso.  
+  🤖 Tecnologias: Java 17, Spring Boot 3, Telegram Bot API, JPA/Hibernate, PostgreSQL/H2, Docker
 
 ---
 
