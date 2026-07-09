@@ -12,14 +12,23 @@
 
 ## 🛠️ Tecnologias que domino
 
+<div align="center">
+
+**Linguagens & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**DevOps & Infra**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+**Dados & Mensageria**  
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+</div>
 
 ---
 
@@ -42,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feerodgs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Felipe's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feerodgs&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=feerodgs&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2496ED&icon_color=2496ED" width="49%" alt="Felipe's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feerodgs&layout=compact&theme=transparent&hide_border=true&title_color=2496ED" width="49%" alt="Top linguagens" />
 </p>
 
 ---
